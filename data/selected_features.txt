@@ -1,0 +1,10 @@
+Age
+Fare
+Fare_Log
+FarePerPerson
+Pclass
+HasCabin
+FamilySize
+SibSp
+Parch
+IsAlone
